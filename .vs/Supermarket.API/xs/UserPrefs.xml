@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A64822D9-A37A-441B-9E3D-9529DB0E250C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Supermarket.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Supermarket.API.Test/CategoryServiceTest.cs">
+    <Files>
+      <File FileName="Supermarket.API.Test/UnitTest1.cs" Line="58" Column="48" />
+      <File FileName="Supermarket.API/Services/CategoryService.cs" Line="28" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Supermarket.API" expanded="True">
+            <Node name="Supermarket.API" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Supermarket.API.Test" expanded="True">
+              <Node name="CategoryServiceTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Supermarket.API" expanded="True">
+            <Node name="Supermarket.API.Test" expanded="True">
+              <Node name="Supermarket.API.Test" expanded="True">
+                <Node name="CategoryServiceTest" expanded="True">
+                  <Node name="GetByIdAsyncWhenInvalidIdReturnsCategoryNotFoundResponse" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

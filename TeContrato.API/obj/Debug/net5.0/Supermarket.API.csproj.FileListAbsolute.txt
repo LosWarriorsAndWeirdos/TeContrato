@@ -1,0 +1,201 @@
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/appsettings.Development.json
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/appsettings.json
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Supermarket.API.deps.json
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Supermarket.API.runtimeconfig.json
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Supermarket.API.runtimeconfig.dev.json
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Supermarket.API.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/ref/Supermarket.API.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Supermarket.API.pdb
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/AutoMapper.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/MySql.Data.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Zstandard.Net.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.csprojAssemblyReference.cache
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.AssemblyInfoInputs.cache
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.AssemblyInfo.cs
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.csproj.CoreCompileInputs.cache
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/staticwebassets/Supermarket.API.StaticWebAssets.Manifest.cache
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/staticwebassets/Supermarket.API.StaticWebAssets.xml
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/scopedcss/bundle/Supermarket.API.styles.css
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.RazorTargetAssemblyInfo.cache
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.csproj.CopyComplete
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/ref/Supermarket.API.dll
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.pdb
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/obj/Debug/net5.0/Supermarket.API.genruntimeconfig.cache
+/Users/angelvelasquez/Development/2101/si653/es3b/Supermarket.API/Supermarket.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.exe
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.deps.json
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.runtimeconfig.json
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.runtimeconfig.dev.json
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\ref\Supermarket.API.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.pdb
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.AssemblyInfo.cs
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\staticwebassets\Supermarket.API.StaticWebAssets.Manifest.cache
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\staticwebassets\Supermarket.API.StaticWebAssets.xml
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\scopedcss\bundle\Supermarket.API.styles.css
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.RazorTargetAssemblyInfo.cache
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.csproj.CopyComplete
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\ref\Supermarket.API.dll
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.pdb
+C:\Users\ADM\Desktop\Nueva carpeta\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.genruntimeconfig.cache
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.exe
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.deps.json
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.runtimeconfig.json
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.runtimeconfig.dev.json
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\ref\Supermarket.API.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.pdb
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.AssemblyInfo.cs
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\staticwebassets\Supermarket.API.StaticWebAssets.Manifest.cache
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\staticwebassets\Supermarket.API.StaticWebAssets.xml
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\scopedcss\bundle\Supermarket.API.styles.css
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.RazorTargetAssemblyInfo.cache
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\ref\Supermarket.API.dll
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.pdb
+C:\Users\ADM\Desktop\API\Supermarket.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.genruntimeconfig.cache
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\appsettings.json
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.exe
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.deps.json
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.runtimeconfig.json
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.runtimeconfig.dev.json
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\ref\Supermarket.API.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Supermarket.API.pdb
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.AssemblyInfo.cs
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\staticwebassets\Supermarket.API.StaticWebAssets.Manifest.cache
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\staticwebassets\Supermarket.API.StaticWebAssets.xml
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\scopedcss\bundle\Supermarket.API.styles.css
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.RazorTargetAssemblyInfo.cache
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\ref\Supermarket.API.dll
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.pdb
+C:\Users\ADM\Desktop\API\TeContrato.API\Supermarket.API\obj\Debug\net5.0\Supermarket.API.genruntimeconfig.cache

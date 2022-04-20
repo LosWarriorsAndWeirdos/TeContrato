@@ -1,0 +1,5 @@
+C:\Users\NICOLL\RiderProjects\WEB\TeContrato.API\TeContrato.API.Test\obj\Debug\net5.0\TeContrato.API.Test.csproj.AssemblyReference.cache
+C:\Users\NICOLL\RiderProjects\WEB\TeContrato.API\TeContrato.API.Test\obj\Debug\net5.0\TeContrato.API.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NICOLL\RiderProjects\WEB\TeContrato.API\TeContrato.API.Test\obj\Debug\net5.0\TeContrato.API.Test.AssemblyInfoInputs.cache
+C:\Users\NICOLL\RiderProjects\WEB\TeContrato.API\TeContrato.API.Test\obj\Debug\net5.0\TeContrato.API.Test.AssemblyInfo.cs
+C:\Users\NICOLL\RiderProjects\WEB\TeContrato.API\TeContrato.API.Test\obj\Debug\net5.0\TeContrato.API.Test.csproj.CoreCompileInputs.cache

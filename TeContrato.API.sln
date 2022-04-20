@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeContrato.API", "TeContrato.API\TeContrato.API.csproj", "{A64822D9-A37A-441B-9E3D-9529DB0E250C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeContrato.API.Test", "TeContrato.API.Test\TeContrato.API.Test.csproj", "{5F566302-64DB-4471-9B96-FFFCCB8DB899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64822D9-A37A-441B-9E3D-9529DB0E250C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64822D9-A37A-441B-9E3D-9529DB0E250C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64822D9-A37A-441B-9E3D-9529DB0E250C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64822D9-A37A-441B-9E3D-9529DB0E250C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F566302-64DB-4471-9B96-FFFCCB8DB899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F566302-64DB-4471-9B96-FFFCCB8DB899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F566302-64DB-4471-9B96-FFFCCB8DB899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F566302-64DB-4471-9B96-FFFCCB8DB899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FCE5283-3912-4223-9A9C-8AC2B98BEEBC}
+	EndGlobalSection
+EndGlobal
